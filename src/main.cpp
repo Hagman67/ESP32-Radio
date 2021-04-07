@@ -202,6 +202,7 @@
 #include <driver/adc.h>
 #include <Update.h>
 #include <base64.h>
+#include <soap.h>
 // Number of entries in the queue
 #define QSIZ 400
 // Debug buffer size
